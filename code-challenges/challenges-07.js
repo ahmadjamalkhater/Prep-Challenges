@@ -20,14 +20,9 @@
 //  1- The text template is "my name is ** ** I am ** YO, and I love **."
 //  2- The first letters of the firstName and lastName should be capital letter
 
-const objLat = (obj,aa,ss,dd) => {
+const objLat = (obj) => {
     // write your code here
-
-    this.Firstname=obj;
-    this.LastName=aa;
-    this.age=ss;
-    this.hobby=dd;
-    return " my name is " +Firstname+LastName +"I am"+ age+"YO" + ", and I love"+hobby};
+};
 // -------------------------------------------------------------------------------------------------------
 
 // -------------------------------------------------------------------------------------------------------
